@@ -12,9 +12,9 @@ public class palindrom {
 		num=num/10;
 	}
 	if(temp==rev)
-		System.out.println("pass");
+		System.out.println("Given number is palindrome");
 	else
-		System.out.println("fail");
+		System.out.println("Given number is not palindrome");
 	}
 
 }
